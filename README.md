@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halil180
 - 👀 I’m interested in web && mobile developement
-- 🌱 I’m currently learning java + angular && firebase + svelte..
+- 🌱 I’m currently learning java && angular && sveltekit && tailwind.css
 - 💞️ I’m looking to collaborate on fullstack web projects
 
 <!---
